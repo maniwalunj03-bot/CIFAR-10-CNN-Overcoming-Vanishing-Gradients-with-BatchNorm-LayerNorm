@@ -62,20 +62,7 @@ Normalization maintains **consistent gradient magnitudes**, preventing vanishing
 ┣ 📜 utils.py # Helper functions (training, plotting)
 ┣ 📜 models.py # CNN models (NoNorm, BatchNorm, LayerNorm)
 ┣ 📜 results/ # Saved plots and results
-┗ 📜 README.md
-
----
-
-## 🧪 Example Output
-
-### Gradient Norm vs Epoch
-![Gradient Norms](results/grad_norms.png)
-
-### Training Loss
-![Training Loss](results/loss_curve.png)
-
-### Activation Distributions
-![Activation Distributions](results/activation_distribution.png)
+┗ 📜 README.me
 
 ---
 
